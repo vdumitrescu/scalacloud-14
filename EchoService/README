@@ -1,0 +1,5 @@
+A simple Echo service as a Scala Play application
+=================================================
+
+This application mimics, to some extent, the functionality provided by the SimpleServlet example for the Mobile Cloud class on Coursera.
+Provided as an example of service written in Scala using the Play Framework.

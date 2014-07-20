@@ -1,0 +1,2 @@
+GET     /videos                   controllers.Application.getVideos
+POST    /videos                   controllers.Application.createVideo
